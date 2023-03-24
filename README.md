@@ -10,8 +10,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with...
 - 💬 Ask me about ...
 - 📫 How to reach me: 
-  limaboechatti@gmail.com
-  www.linkedin.com/in/LiviaBoechat
+  limaboechatti@gmail.com | www.linkedin.com/in/LiviaBoechat
 
 
 
