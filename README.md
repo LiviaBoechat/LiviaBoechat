@@ -6,11 +6,11 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;name: Livia Boechat<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: 'Javascript', 'HTML', 'CSS',<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;technologies: {<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;frontEnd: 'React', 'Redux', 'Flexbox',<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;backEnd: 'Node', 'Express', 'mySQL',<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;testing: 'JEST', 'MOCHA',<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;design: 'Photoshop', 'Illustrator', 'Figma',<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;teaming: 'Git', 'GitHub', 'Trello',<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;frontEnd: 'React', 'Redux', 'Flexbox',<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;backEnd: 'Node', 'Express', 'mySQL',<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;testing: 'JEST', 'MOCHA',<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;design: 'Photoshop', 'Illustrator', 'Figma',<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;teaming: 'Git', 'GitHub', 'Trello',<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;},<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;softSkills: [<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'adaptability',<br>
@@ -18,8 +18,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'personal organization',<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'communication',<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;],<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;currentOccupation: ["currently studying FullStack Web Development at Trybe, open for job opportunities"],<br>
-</h4>};</h4>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;currentOccupation: 'currently studying FullStack Web Development at Trybe, open for job opportunities',<br>
+<h4>};</h4>
 
 
 ###
