@@ -2,7 +2,25 @@
 
 ###
 
-<h3 align="left">const aboutMe = {<br>   name: Livia Boechat<br>   code: ['Javascript', 'HTML', 'CSS'],<br>   technologies: {<br>      frontEnd: ['React', 'Redux', 'Flexbox'],<br>      backEnd: ['Node', 'Express', 'mySQL'],<br>      testing: ['JEST', 'RTL']<br>      design: ['Photoshop', 'Illutrator', 'Figma'],<br>      teaming: ['Git', 'GitHub', 'Trello']<br>   },<br>   softSkills: [<br>    'adaptability',<br>    'teamwork',<br>    'personal organization',<br>    'communication',<br>  ],<br>   currentOccupation: ["currently studying FullStack Web Development at Trybe, open for job opportunities"],<br>};</h3>
+<h4 align="left">const aboutMe = {</h4>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;name: Livia Boechat<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: 'Javascript', 'HTML', 'CSS',<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;technologies: {<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;frontEnd: 'React', 'Redux', 'Flexbox',<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;backEnd: 'Node', 'Express', 'mySQL',<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;testing: 'JEST', 'MOCHA',<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;design: 'Photoshop', 'Illustrator', 'Figma',<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;teaming: 'Git', 'GitHub', 'Trello',<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;},<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;softSkills: [<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'adaptability',<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'teamwork',<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'personal organization',<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'communication',<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;],<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;currentOccupation: ["currently studying FullStack Web Development at Trybe, open for job opportunities"],<br>
+</h4>};</h4>
+
 
 ###
 
@@ -47,26 +65,14 @@
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="30" alt="github logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white&style=for-the-badge" height="30" alt="trello logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Mocha-8D6748?logo=mocha&logoColor=white&style=for-the-badge" height="30" alt="mocha logo"  />
 </div>
 
 ###
+
 <br clear="both">
 
 <h3 align="left">find me:</h3>
-###
-<div align="left">
-  <a href="limaboechatti@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="www.linkedin.com/in/liviaboechat" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/LiviaBoechat/LiviaBoechat/output/snake.svg" alt="Snake animation" />
-
-###
+<p> limaboechatti@gmail.com <p>
+<p> https://www.linkedin.com/in/livia-boechat-4309b8252/ <p>
