@@ -67,7 +67,6 @@
   <img src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white&style=for-the-badge" height="30" alt="trello logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Mocha-8D6748?logo=mocha&logoColor=white&style=for-the-badge" height="30" alt="mocha logo"  />
-  https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="30" alt="java logo"  />
 </div>
 
