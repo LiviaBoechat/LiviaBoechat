@@ -4,7 +4,7 @@
 
 <h4 align="left">const aboutMe = {</h4>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;name: Livia Boechat<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: 'Javascript', 'HTML', 'CSS',<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: 'Javascript', 'Java', 'HTML', 'CSS',<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;technologies: {<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;frontEnd: 'React', 'Redux', 'Flexbox',<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;backEnd: 'Node', 'Express', 'mySQL', 'Java', 'Spring',<br>
