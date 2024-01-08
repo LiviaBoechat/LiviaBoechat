@@ -18,7 +18,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'personal organization',<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'communication',<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;],<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;currentOccupation: 'currently studying FullStack Web Development at Trybe, open for job opportunities',<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;currentOccupation: 'I have just completed over 1500 hours of Full Stack Web Development studies at Trybe and am now open to job opportunities.',<br>
 <h4>};</h4>
 
 
